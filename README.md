@@ -87,21 +87,6 @@ Your React frontend will launch on `http://localhost:3000` and communicate with 
 | MAE          | 989.98   |
 | RMSE         | 1324.18  |
 
----
-
-## 👤 Author
-
-**Devansh Kumar Sinha**  
-B.Tech CSE | Birla Institute of Technology  
-Passionate about AI, ML, and Quantum Computing
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## 📝 Acknowledgments
 
