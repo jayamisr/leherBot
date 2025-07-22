@@ -1,7 +1,6 @@
 
-# 💼 WageWizard – AI-Powered Employee Salary Predictor
+# lEHERBOT- ANNUAL SALARY PREDICTOR
 
-**WageWizard** is an intelligent web-based application that predicts employee salaries using machine learning. Designed to assist HR professionals, analysts, and business decision-makers, this tool uses employee-related inputs like job role, experience, education, and performance to generate accurate salary estimates.
 
 The project features a **React-based frontend** styled with a custom neon theme and background, and a **FastAPI backend** powered by a trained **TensorFlow regression model**. It also provides intuitive charts and visualizations to interpret model performance.
 
